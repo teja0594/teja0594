@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kedari Teja
-- 👀 I’m interested in Web Dvlopment
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on MearnStack
 - 📫 How to reach me kedariteja1999@gmail.com
