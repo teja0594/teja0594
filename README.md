@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kedari Teja
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on MearnStack Projects
+- 🌱 I’m currently learning Angular
+- 💞️ I’m looking to collaborate on MeanStack Projects
 - 📫 How to reach me kedariteja1999@gmail.com
 
 <!---
